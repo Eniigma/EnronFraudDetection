@@ -1,6 +1,3 @@
-ud120-projects
-==============
+Udacity Intro to ML Course:
 
-Starter project code for students taking Udacity ud120
-
-Solutions for all Exercises and Complete Final Project 
+Enron Person of Interest Identifier Project -> final_project/
