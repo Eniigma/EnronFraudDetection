@@ -1,3 +1,1 @@
-Udacity Intro to ML Course:
-
-Enron Person of Interest Identifier Project -> final_project/
+Person of Interest Identifier for the Enron fraud email dataset
