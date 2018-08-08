@@ -1,2 +1,3 @@
-Person of Interest Identifier for the Enron scandal
+Person of Interest Identifier for the Enron fraud detection 
+
 Dataset: Enron email dataset
